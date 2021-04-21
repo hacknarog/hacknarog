@@ -1,4 +1,4 @@
- <h1>Official hackathon profile</h1><br>
+
 - 👋 Hi, I’m **Aakash A Nair**, this is my official Hackathon GitHub Account. 🔱
 - 👀 I’m interested in learning new technology, solving math problems, solvig mysteries, lookout for a new problem 
 - 💻 I am interested in **Hackathons, Competitive coding, Animation, Graphic Designing**
