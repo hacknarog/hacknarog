@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning Machine Learning, Deep Learning, BlockChain
 - 💞️ I’m looking to collaborate on a problem that has great impact to the real world.
 - 🖥️ Official Hackahthon Profile Github Profile Username:  **crackysolver**
-- 📫 How to reach me : [https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/aakash-nair/)
+- 📫 How to reach me : [linkedin_logo.png](https://www.linkedin.com/in/aakash-nair/)
 
 <!---
 hacknarog/hacknarog is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
