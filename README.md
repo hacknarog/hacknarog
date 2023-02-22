@@ -1,8 +1,11 @@
 
   # Official short hackathon profile
 - 👋 Hi, I’m **Aakash A Nair**, this is my official short Hackathon GitHub Account. 🔱
-- contact: hackionaire@gmail.com
-- 🖥️ Official Hackathon Profile Github Profile Username:  [**crackysolver**](https://github.com/crackysolver)     <br>
+
+
+- 🖥️ Contact me on [**CrackySolver**](https://github.com/crackysolver)<br><br>
+or<br><br>
+<a href="mailto:hackionaire@gmail.com"><img src="gmail.png" width="30"/>
 ____________________________________________________________________________________________________________________________________________________________________
 
 
