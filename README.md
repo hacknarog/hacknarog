@@ -3,7 +3,7 @@
 - 👋 Hi, I’m **Aakash A Nair**, this is my official short Hackathon GitHub Account. 🔱
 
 
-- 🖥️ Contact me on [**CrackySolver**](https://github.com/crackysolver)<br><br>
+- 🖥️ Contact me on [**CrackyDonut**](https://github.com/crackysolver)<br><br>
 or<br><br>
 <a href="mailto:hackionaire@gmail.com"><img src="gmail.png" width="30"/>
 ____________________________________________________________________________________________________________________________________________________________________
